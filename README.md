@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>🌱 I’m currently learning Backend with NodeJS
+🔭 I’m currently working on Web Development<br>🌱 I’m currently learning NodeJS & ExpressJS
 
 
 ## 🌐 Socials:
