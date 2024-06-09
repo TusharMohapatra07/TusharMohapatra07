@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>🌱 I’m currently learning NodeJS & ExpressJS
+🔭 I’m currently working on Web technologies and frameworks<br>🌱 I’m currently learning Golang for backend and ReactJS for frontend
 
 
 ## 🌐 Socials:
