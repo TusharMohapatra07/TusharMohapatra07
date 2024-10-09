@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web technologies and frameworks<br>🌱 I’m currently learning Golang and ReactJS 
+🔭 I’m currently working on Web technologies and frameworks<br>🌱 I’m currently learning Golang and NodeJS
 
 
 ## 🌐 Socials:
