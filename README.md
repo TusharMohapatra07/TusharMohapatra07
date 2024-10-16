@@ -18,3 +18,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TusharMohapatra07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### Badges
+[![An image of @tusharmohapatra07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tusharmohapatra07)](https://holopin.io/@tusharmohapatra07)
