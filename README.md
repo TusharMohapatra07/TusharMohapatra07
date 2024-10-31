@@ -1,3 +1,4 @@
+<img src="https://github.com/TusharMohapatra07/TusharMohapatra07/blob/main/banner.gif" alt="GitHub Banner" style="width:100%;">
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tushar-07-mohapatra) 
