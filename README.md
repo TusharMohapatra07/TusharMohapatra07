@@ -1,11 +1,11 @@
 <img src="https://github.com/TusharMohapatra07/TusharMohapatra07/blob/main/banner.gif" alt="GitHub Banner" style="width:100%;">
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tushar-07-mohapatra) 
+[![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://linkedin.com/in/tushar-07-mohapatra) 
 
-### 💻 Tech Stack:
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
+### 💻 Languages and Technologies:
+![Go](https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go1.svg) ![Express.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg) ![Java](	https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg) ![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg) ![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg) ![NPM](https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg) ![Javascript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg) ![Typescript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg) ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg) ![Postgresql](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg) ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg) ![Github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg) ![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg) ![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg) ![Neovim](https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim3.svg)
+ 
 ### 📊 GitHub Stats:
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=TusharMohapatra07&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true"><br/>
