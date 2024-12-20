@@ -9,14 +9,11 @@
 Hi! I'm Tushar, a 20 y/o programmer from India 🇮🇳.
 I recently started contributing to open source, and it’s been an awesome journey. I’m grateful for the community, and all the learning and collaboration it brings—I'm genuinely hooked!
 
-🔭 **Currently Exploring:**  
-&nbsp;&nbsp;&nbsp;&nbsp;Modern web technologies and frameworks to create scalable, efficient applications.  
-
-🌱 **Currently Learning:**  
-&nbsp;&nbsp;&nbsp;&nbsp;Backend development with **Golang**, front-end skills with **ReactJS**, database management with **PostgreSQL**, and strengthening my JavaScript foundation with **TypeScript**.  
+🔭 **Currently Exploring:**
+&nbsp;&nbsp;&nbsp;&nbsp;**Backend technologies** and frameworks, with a focus on getting into **cloud-native technologies**.
 
 🌌 **Future Goals:**  
-&nbsp;&nbsp;&nbsp;&nbsp;Diving into popular NoSQL databases like **MongoDB** for flexible data solutions and exploring **Next.js** to enhance my abilities in server-side rendering and full-stack application development.  
+&nbsp;&nbsp;&nbsp;&nbsp;Building a **DevOps toolchain**, developing **robust and scalable backend systems**, and diving deeper into **event-driven architecture** for real-time data processing and system flexibility.
 
 🤔 **Curious About:**  
 &nbsp;&nbsp;&nbsp;&nbsp;The intricate workings of networks, the fundamentals of computer operations, and the mechanics of virtualization in VMs and containers.  
