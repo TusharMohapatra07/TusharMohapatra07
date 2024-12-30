@@ -9,7 +9,7 @@
 Hi! I'm Tushar, a 20 y/o programmer from India 🇮🇳.
 I recently started contributing to open source, and it’s been an awesome journey. I’m grateful for the community, and all the learning and collaboration it brings—I'm genuinely hooked!
 
-🔭 **Currently Exploring:**
+🔭 **Currently Exploring:**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**Backend technologies** and frameworks, with a focus on getting into **cloud-native technologies**.
 
 🌌 **Future Goals:**  
