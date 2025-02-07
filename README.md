@@ -20,15 +20,15 @@ I recently started contributing to open source, and it’s been an awesome journ
 
 ---
 
-### 💻 Languages and Technologies:
+#### 💻 Languages and Technologies:
 
 ---
 
-![Go](https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go1.svg) ![Express.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg) ![Java](	https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg) ![Javascript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg) ![Typescript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg) ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg) ![Postgresql](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg) ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg) ![Github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg) ![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg) ![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)&nbsp; ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)&nbsp; ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)&nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)&nbsp; ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) 
 
 ---
 
-### 📊 GitHub Stats:
+#### 📊 GitHub Stats:
 
 ---
 <table>
@@ -56,7 +56,7 @@ I recently started contributing to open source, and it’s been an awesome journ
 
 ---
 
-### 🎖 Badges:
+#### 🎖 Badges:
 
 ---
 
@@ -64,10 +64,10 @@ I recently started contributing to open source, and it’s been an awesome journ
 
 ---
 
-### 🌐 Socials:
+#### 🌐 Socials:
 
 ---
 
 **Let’s connect, collab, or just geek out about tech!**
 
-[![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://linkedin.com/in/tushar-07-mohapatra)&nbsp;&nbsp;&nbsp; [![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg)](https://discordapp.com/users/501724186436173824)&nbsp;&nbsp;&nbsp; [![Gmail](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg)](mailto:tusharmohapatra.gig@gmail.com)  
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/tushar-07-mohapatra)&nbsp;&nbsp; [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/501724186436173824)&nbsp;&nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tusharmohapatra.gig@gmail.com) 
