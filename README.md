@@ -6,7 +6,7 @@
 
 ---
 
-Hi! I'm Tushar, a 20 y/o programmer from India 🇮🇳.
+Hi! I'm Tushar.
 I recently started contributing to open source, and it’s been an awesome journey. I’m grateful for the community, and all the learning and collaboration it brings—I'm genuinely hooked!
 
 🔭 **Currently Exploring:**<br/>
