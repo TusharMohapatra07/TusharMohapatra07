@@ -53,7 +53,7 @@ I recently started contributing to open source, and it’s been an awesome journ
   </tr>
 </table>
 
-
+<!---
 ---
 
 ### 🎖 Badges:
@@ -61,7 +61,7 @@ I recently started contributing to open source, and it’s been an awesome journ
 ---
 
 [![An image of @tusharmohapatra07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tusharmohapatra07)](https://holopin.io/@tusharmohapatra07)
-
+--->
 ---
 
 ### 🌐 Socials:
