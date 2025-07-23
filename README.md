@@ -15,9 +15,6 @@ I recently started contributing to open source, and it’s been an awesome journ
 🌌 **Future Goals:**  
 &nbsp;&nbsp;&nbsp;&nbsp;Building a **DevOps toolchain**, developing **robust and scalable backend systems**, and diving deeper into **event-driven architecture** for real-time data processing and system flexibility.
 
-🤔 **Curious About:**  
-&nbsp;&nbsp;&nbsp;&nbsp;The intricate workings of networks, the fundamentals of computer operations, and the mechanics of virtualization in VMs and containers.  
-
 ---
 
 ### 💻 Languages and Technologies:
