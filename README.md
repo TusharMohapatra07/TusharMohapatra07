@@ -4,7 +4,6 @@
 
 ### 🧑🏻‍💻 About Me:
 
----
 
 Hi! I'm Tushar.
 I recently started contributing to open source, and it’s been an awesome journey. I’m grateful for the community, and all the learning and collaboration it brings—I'm genuinely hooked!
@@ -19,7 +18,6 @@ I recently started contributing to open source, and it’s been an awesome journ
 
 ### 💻 Languages and Technologies:
 
----
 
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)&nbsp; ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)&nbsp; ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)&nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)&nbsp; ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) 
 
@@ -27,7 +25,6 @@ I recently started contributing to open source, and it’s been an awesome journ
 
 ### 📊 GitHub Stats:
 
----
 <table>
   <tr>
     <td>
@@ -55,7 +52,6 @@ I recently started contributing to open source, and it’s been an awesome journ
 
 ### 🎖 Badges:
 
----
 
 [![An image of @tusharmohapatra07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tusharmohapatra07)](https://holopin.io/@tusharmohapatra07)
 --->
@@ -63,7 +59,6 @@ I recently started contributing to open source, and it’s been an awesome journ
 
 ### 🌐 Socials:
 
----
 
 Let’s connect, collab, or just geek out about tech!
 
