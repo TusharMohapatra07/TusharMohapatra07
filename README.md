@@ -1,26 +1,26 @@
 
-### 🧑🏻‍💻 About Me:
+###  About Me:
 
 
 Hi! I'm Tushar.
 I recently started contributing to open source, and it’s been an awesome journey. I’m grateful for the community, and all the learning and collaboration it brings. I'm genuinely hooked!
 
-🔭 **Currently Exploring:**<br/>
+ **Currently Exploring:**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**Backend technologies** and frameworks, with a focus on getting into **cloud-native technologies**.
 
-🌌 **Future Goals:**  
+ **Future Goals:**  
 &nbsp;&nbsp;&nbsp;&nbsp;Building a **DevOps toolchain**, developing **robust and scalable backend systems**, and diving deeper into **event-driven architecture** for real-time data processing and system flexibility.
 
 ---
 
-### 💻 Languages and Technologies:
+###  Languages and Technologies:
 
 
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)&nbsp; ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)&nbsp; ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)&nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)&nbsp; ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) 
 
 ---
 
-### 📊 GitHub Stats:
+###  GitHub Stats:
 
 <table>
   <tr>
@@ -54,7 +54,7 @@ I recently started contributing to open source, and it’s been an awesome journ
 --->
 ---
 
-### 🌐 Socials:
+###  Socials:
 
 
 Let’s connect, collab, or just geek out about tech!
