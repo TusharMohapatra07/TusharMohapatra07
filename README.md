@@ -1,6 +1,3 @@
-<img src="https://github.com/TusharMohapatra07/TusharMohapatra07/blob/main/banner.gif" alt="GitHub Banner" style="width:100%;">
-
----
 
 ### 🧑🏻‍💻 About Me:
 
