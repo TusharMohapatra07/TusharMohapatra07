@@ -8,8 +8,6 @@ I recently started contributing to open source, and it’s been an awesome journ
  **Currently Exploring:**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**Backend technologies** and frameworks, with a focus on getting into **cloud-native technologies**.
 
- **Future Goals:**  
-&nbsp;&nbsp;&nbsp;&nbsp;Building a **DevOps toolchain**, developing **robust and scalable backend systems**, and diving deeper into **event-driven architecture** for real-time data processing and system flexibility.
 
 ---
 
