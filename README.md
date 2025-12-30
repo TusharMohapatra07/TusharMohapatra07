@@ -21,7 +21,7 @@ I recently started contributing to open source, and it’s been an awesome journ
 ###  GitHub Stats:
 
 <table>
-  <tr>
+  <!-- <tr>
     <td>
       <a href="https://github.com/TusharMohapatra07">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharMohapatra07&theme=highcontrast&hide_border=true&border_radius=0&ring=3AD354&fire=3AD354&currStreakLabel=3AD354" alt="Streak" />
@@ -32,7 +32,7 @@ I recently started contributing to open source, and it’s been an awesome journ
         <img src="https://github-readme-stats.vercel.app/api?username=TusharMohapatra07&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true&border_radius=0&title_color=3AD354" alt="Stats" />
       </a>
     </td>
-  </tr>
+  </tr> -->
   <tr>
     <td colspan="2">
       <a href="https://github.com/TusharMohapatra07">
