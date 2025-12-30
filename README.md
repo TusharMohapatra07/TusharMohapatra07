@@ -20,7 +20,7 @@ I recently started contributing to open source, and it’s been an awesome journ
 
 ###  GitHub Stats:
 
-<table>
+<!-- <table> -->
   <!-- <tr>
     <td>
       <a href="https://github.com/TusharMohapatra07">
@@ -33,14 +33,14 @@ I recently started contributing to open source, and it’s been an awesome journ
       </a>
     </td>
   </tr> -->
-  <tr>
-    <td colspan="2">
+  <!-- <tr>
+    <td colspan="2"> -->
       <a href="https://github.com/TusharMohapatra07">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharMohapatra07&theme=high-contrast&custom_title=Contribution%20graph%20&alt=Activity%20Graph&line=3AD354" alt="Activity Graph" />
       </a>
-    </td>
-  </tr>
-</table>
+    <!-- </td>
+  </tr> -->
+<!-- </table> -->
 
 <!---
 ---
